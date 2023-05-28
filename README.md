@@ -1,4 +1,4 @@
-# Dance-Studio
+# DANCE-STUDIO
 
 ## Project Overview 
 
