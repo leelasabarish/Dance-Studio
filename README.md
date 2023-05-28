@@ -113,6 +113,13 @@ The project follows a standard Java code structure, with packages for controller
 
 ```Expand the program database to include more diverse dance styles and fitness```
 
-
 </details>
+
+## Gallery
+##### Here are the few photos of the project 
+<img width="1440" alt="Screenshot 2023-05-02 at 5 11 43 PM" src="https://github.com/leelasabarish/Dance-Studio/assets/74003155/63b8acc0-57df-4bbd-aac9-00f0cdc579ce">
+<img width="1440" alt="Screenshot 2023-05-02 at 5 11 57 PM" src="https://github.com/leelasabarish/Dance-Studio/assets/74003155/7c846765-d72f-44b0-982a-69952d256f8c">
+
+<img width="1440" alt="Screenshot 2023-05-02 at 5 12 39 PM" src="https://github.com/leelasabarish/Dance-Studio/assets/74003155/3b1181c2-3fbf-4250-bbdb-4686f75f9374">
+
 
